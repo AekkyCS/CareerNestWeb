@@ -3,7 +3,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 
 const testimonials = [
-  {
+  /*{
     quote: 'This app made it so easy to find clients and get paid on time!',
     name: 'Jane Doe',
     role: 'Freelancer',
@@ -26,7 +26,7 @@ const testimonials = [
     avatar: 'SL',
     image: 'https://placehold.co/100x100.png',
     aiHint: 'person smiling',
-  },
+  },*/
 ];
 
 export default function Testimonials() {
