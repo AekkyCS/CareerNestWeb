@@ -28,7 +28,7 @@ export default function Download() {
             </div>
             <div className="flex justify-center pt-4">
                  <Image
-                    src="https://drive.google.com/file/d/1xkgmFlYIRc3zLUZo5DaZnqFXVLfaINmI/view?usp=sharing"
+                    src="src/components/landing/Design a professional and modern logo for a freelance app called CareerNest. The logo should visually represent the concepts of career growth, freelancing, and a nurturing environment for professionals. Incorpora.jpg"
                     width="200"
                     height="200"
                     alt="QR Code for app download"
