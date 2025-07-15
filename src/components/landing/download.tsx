@@ -28,7 +28,7 @@ export default function Download() {
             </div>
             <div className="flex justify-center pt-4">
                  <Image
-                    src="https://placehold.co/200x200.png"
+                    src="https://drive.google.com/file/d/1xkgmFlYIRc3zLUZo5DaZnqFXVLfaINmI/view?usp=sharing"
                     width="200"
                     height="200"
                     alt="QR Code for app download"
