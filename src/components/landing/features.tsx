@@ -38,7 +38,7 @@ export default function Features() {
           <div className="space-y-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl font-headline text-primary">Why Choose Our App?</h2>
             <p className="max-w-[900px] text-foreground/80 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              Discover the features that make TalentHub the ultimate tool for your freelance career.
+              Discover the features that make CareerNest the ultimate tool for your freelance career.
             </p>
           </div>
         </div>

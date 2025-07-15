@@ -27,7 +27,7 @@ export default function HowItWorks() {
           <div className="space-y-2">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl font-headline text-primary">How It Works</h2>
             <p className="max-w-[900px] text-foreground/80 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              Getting started with TalentHub is simple. Follow these three easy steps.
+              Getting started with CareerNest is simple. Follow these three easy steps.
             </p>
           </div>
         </div>

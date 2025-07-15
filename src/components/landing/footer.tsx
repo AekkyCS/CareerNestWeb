@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="space-y-4">
             <Link href="#" className="flex items-center space-x-2" prefetch={false}>
               <Briefcase className="h-6 w-6 text-primary" />
-              <span className="text-xl font-bold text-white font-headline">TalentHub</span>
+              <span className="text-xl font-bold text-white font-headline">CareerNest</span>
             </Link>
             <p className="text-sm">
               Connect, work, and succeed with the ultimate platform for freelancers and clients.
@@ -39,7 +39,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-gray-700 pt-4 text-center text-sm">
-          © {new Date().getFullYear()} TalentHub. All rights reserved.
+          © {new Date().getFullYear()} CareerNest. All rights reserved.
         </div>
       </div>
     </footer>
