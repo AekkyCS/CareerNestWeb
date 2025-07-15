@@ -5,7 +5,7 @@ import { Toaster } from '@/components/ui/toaster';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Freelance Flow',
+  title: 'TalentHub',
   description: 'Connect, Work, Succeed: Your Freelance Journey Starts Here',
 };
 
